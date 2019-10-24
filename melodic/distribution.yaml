@@ -11,5 +11,7 @@ repositories:
       type: git
       url: https://github.com/Rayman/toypkg.git
       version: master
+tags:
+- custom
 type: distribution
 version: 2
