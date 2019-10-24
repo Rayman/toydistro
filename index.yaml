@@ -5,7 +5,7 @@
 distributions:
   melodic:
     distribution:
-    - https://raw.githubusercontent.com/ros/rosdistro/master/kinetic/distribution.yaml 
+    - https://raw.githubusercontent.com/ros/rosdistro/master/melodic/distribution.yaml 
     - melodic/distribution.yaml
     distribution_cache: http://192.168.1.52/rosdistro_cache/melodic-cache.yaml.gz
 type: index
